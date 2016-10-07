@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;menu&gt;">
+    <CLASSES>
+      <root url="file://$GOPATH$/src/bitbucket.org" />
+      <root url="file://$GOPATH$/src/launchpad.net" />
+      <root url="file://$GOPATH$/src/code.google.com" />
+      <root url="file://$GOPATH$/src/github.com" />
+      <root url="file://$GOPATH$/src/rsc.io" />
+      <root url="file://$GOPATH$/src/gopkg.in" />
+      <root url="file://$GOPATH$/src/golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>

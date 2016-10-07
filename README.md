@@ -1,9 +1,9 @@
 # Menu
 For understanding Golang, playing around
 
-# Refrences for GoLang
-https://github.com/dariubs/GoBooks#books
-http://thenewstack.io/make-a-restful-json-api-go/
+## Refrences for GoLang
+* https://github.com/dariubs/GoBooks#books
+* http://thenewstack.io/make-a-restful-json-api-go/
 
 
 ## Setup GoLang on your local machine
